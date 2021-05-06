@@ -1,0 +1,13 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 4621,
+    "username": "postgres",
+    "password": "123456",
+    "database": "toDo",
+    "migrations": ["./src/database/migrations/*.ts"],
+    "entities": ["./src/model/*.ts"],
+    "cli": {
+        "migrationsDir": "./src/database/migrations"
+    }
+}
