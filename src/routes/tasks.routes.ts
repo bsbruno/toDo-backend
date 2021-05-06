@@ -1,4 +1,4 @@
-import { Router } from 'express';
+/* import { Router } from 'express';
 import { getCustomRepository, getRepository } from 'typeorm';
 import ensureAutheticade from '../middlewares/ensureAutheticade';
 import Tasks from '../model/Tasks';
@@ -35,3 +35,4 @@ taskRoutes.delete('/:id', async (req, res) => {
 });
 
 export default taskRoutes;
+ */

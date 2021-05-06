@@ -1,4 +1,4 @@
-import Task from '../model/Tasks';
+/* import Task from '../model/Tasks';
 import { getCustomRepository, getRepository } from 'typeorm';
 import AppError from '../error/AppError';
 import TaskRepository from '../repositories/TaskRepository';
@@ -27,3 +27,4 @@ export default class DeleteTaskService {
         }
     }
 }
+ */
